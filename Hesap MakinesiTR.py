@@ -1,3 +1,6 @@
+###@alierenkose
+
+
 güzel = "-------------------------------------------------"
 
 while True:
@@ -81,3 +84,6 @@ while True:
  print("")
  print("TEKRAR BAŞLATILIYOR.....")
  print("")
+ 
+ 
+ ###@alierenkose
